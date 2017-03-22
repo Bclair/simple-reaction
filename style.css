@@ -1,0 +1,23 @@
+button {
+    width:150px;
+    height:50px;
+    
+    display: block;
+    margin: auto;
+}
+
+img {
+    size: 50%;
+    
+}
+
+#picbox {
+    size: 50%;
+}
+
+#wan {
+    padding: 10px;
+    display: none;
+    margin:auto;
+    padding-left: 450px;
+}
